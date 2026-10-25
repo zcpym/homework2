@@ -1,0 +1,21 @@
+# ---- CMake / 构建产物 ----
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# ---- CLion ----
+.idea/
+
+# ---- 编译输出 ----
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
